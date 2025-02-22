@@ -5,8 +5,8 @@ This repository is for my computer assignments in Statistics course.
 
 They are short and simple codes in Python.
 
-The questions of HW3 are in this [link](https://github.com/SBU-CE/CE004-Statistics/tree/main/Homeworks/CA-3).
-
 The questions for HW2 are clear in the notebook.
+
+The questions of HW3 are in this [link](https://github.com/SBU-CE/CE004-Statistics/tree/main/Homeworks/CA-3).
 
 
